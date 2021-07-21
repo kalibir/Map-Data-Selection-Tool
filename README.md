@@ -5,7 +5,7 @@ The user can also upload a JSON file and provided it has the right data format (
 
 ## HOW TO USE:
 
-1. Upload a JSON file or search for a location on the search bar and start drawing a poolygon on the map to see any changes
+1. Upload a JSON file or search for a location on the search bar and start drawing a polygon on the map to see any changes
 2. After a polygon is created you can either change it's label or download it
 3. To zoom on a previously created polygon use the "ZOOM ON SELECTION" dropdown and click on the labels to zoom in
 4. Download the file to get an array of geojson objects for posterior use.
