@@ -5,7 +5,7 @@ The user can also upload a JSON file and provided it has the right data format (
 
 An example of a valid JSON file to be uploaded would be as follows:
 
-![GESOJSON FILE](./docs-images/GEOSJSON_FILE.png)
+![GEOJSON FILE](./docs-images/GEOJSON_FILE.png)
 
 For the scope of this project the map view is restricted to the Japan island so any location searched outside of this scope will not appear on the map.
 
@@ -51,10 +51,10 @@ The `components` folder contains all the components used to build the applicatio
 
 3. To zoom on a previously created polygon use the "ZOOM ON SELECTION" dropdown and click on the labels to zoom in.
  
-    ![Download](./docs-images/download.png)
+    ![select](./docs-images/select.PNG)
 
 4. Download the file to get an array of geojson objects for posterior use.
 
-    ![Download](./docs-images/array.png)
+    ![Array](./docs-images/array.PNG)
 
 
