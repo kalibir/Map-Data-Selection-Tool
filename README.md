@@ -51,10 +51,10 @@ The `components` folder contains all the components used to build the applicatio
 
 3. To zoom on a previously created polygon use the "ZOOM ON SELECTION" dropdown and click on the labels to zoom in.
  
-    ![Download](./docs-images/download.png)
+    ![Polygon](./docs-images/polygon.png)
 
 4. Download the file to get an array of geojson objects for posterior use.
 
-    ![Download](./docs-images/array.png)
+    ![Array](./docs-images/array.png)
 
 
