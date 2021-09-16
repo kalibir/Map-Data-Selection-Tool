@@ -24,14 +24,12 @@ const LeftMenu = ({ dispatch, features, mapViewport }) => {
     e.preventDefault();
     feature.properties.label = e.target.value;
     setName(e.target.value);
-    console.log(name);
   };
 
   const handleUpload = (files) => {
     var reader = new FileReader();
     reader.onload = (e) => {
       // Use reader.result
-      console.log(uploaded);
       setUploaded({
         data: reader.result,
       });

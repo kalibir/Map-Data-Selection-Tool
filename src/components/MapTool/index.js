@@ -22,7 +22,6 @@ const MapTool = ({ dispatch, features, mapViewport, bounds }) => {
   const handleShow = (e) => {
     e.preventDefault();
     setShow(!show);
-    console.log(show);
   };
 
   useEffect(() => {
