@@ -55,6 +55,6 @@ The `components` folder contains all the components used to build the applicatio
 
 4. Download the file to get an array of geojson objects for posterior use.
 
-    ![Array](./docs-images/array.png)
+    ![Array](./docs-images/array.PNG)
 
 
