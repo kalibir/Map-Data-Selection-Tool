@@ -5,7 +5,7 @@ The user can also upload a JSON file and provided it has the right data format (
 
 An example of a valid JSON file to be uploaded would be as follows:
 
-![GESOJSON FILE](./docs-images/GEOSJSON_FILE.png)
+![GEOJSON FILE](./docs-images/GEOJSON_FILE.png)
 
 For the scope of this project the map view is restricted to the Japan island so any location searched outside of this scope will not appear on the map.
 
